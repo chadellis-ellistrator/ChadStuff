@@ -39,6 +39,6 @@ public class FirstNumPrimes {
 
   public static void main(String[] args) {
     System.out.println(isPrime(4));
-    firstNumPrimes(20);
+    firstNumPrimes(200);
   }    
 }
